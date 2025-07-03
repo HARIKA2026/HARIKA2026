@@ -1,4 +1,4 @@
-<center># Hi there! 👋 I'm Harika Anala....</center>
+# Hi there! 👋 I'm Harika Anala....
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;AI%2FML+Problem+Solver" alt="Typing SVG" />
