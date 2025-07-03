@@ -69,6 +69,19 @@ I'm a passionate **Computer Science Engineering student** with a strong foundati
 - 🎨 Interactive elements and smooth animations reducing bounce rate by **35%**
 - ⚡ Performance optimization improving page load times by **40%**
 
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARIKA2026&show_icons=true&theme=tokyonight&hide_border=true" alt="Harika's GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARIKA2026&theme=tokyonight&hide_border=true" alt="Harika's GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARIKA2026&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+
+
 ## 🏆 Achievements & Certifications
 
 - 🎖️ **IT Specialist (HTML, CSS)** - Pearson
